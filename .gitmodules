@@ -1,0 +1,45 @@
+[submodule "pack/rails_react/start/navigation/ack.vim"]
+	path = pack/rails_react/start/navigation/ack.vim
+	url = git@github.com:mileszs/ack.vim.git
+[submodule "pack/rails_react/start/navigation/ctrlp.vim"]
+	path = pack/rails_react/start/navigation/ctrlp.vim
+	url = git@github.com:ctrlpvim/ctrlp.vim.git
+[submodule "pack/rails_react/start/ctrlp.vim"]
+	path = pack/rails_react/start/ctrlp.vim
+	url = git@github.com:ctrlpvim/ctrlp.vim.git
+[submodule "pack/rails_react/start/ack.vim"]
+	path = pack/rails_react/start/ack.vim
+	url = git@github.com:mileszs/ack.vim.git
+[submodule "pack/rails_react/start/json5.vim"]
+	path = pack/rails_react/start/json5.vim
+	url = git@github.com:gutenye/json5.vim.git
+[submodule "pack/rails_react/start/nerdtree"]
+	path = pack/rails_react/start/nerdtree
+	url = git@github.com:preservim/nerdtree.git
+[submodule "pack/rails_react/start/tcomment_vim"]
+	path = pack/rails_react/start/tcomment_vim
+	url = git@github.com:tomtom/tcomment_vim.git
+[submodule "pack/rails_react/start/vim-airline"]
+	path = pack/rails_react/start/vim-airline
+	url = git@github.com:vim-airline/vim-airline.git
+[submodule "pack/rails_react/start/vim-buffergator"]
+	path = pack/rails_react/start/vim-buffergator
+	url = git@github.com:jeetsukumaran/vim-buffergator.git
+[submodule "pack/rails_react/start/vim-endwise"]
+	path = pack/rails_react/start/vim-endwise
+	url = git@github.com:tpope/vim-endwise.git
+[submodule "pack/rails_react/start/vim-javascript"]
+	path = pack/rails_react/start/vim-javascript
+	url = git@github.com:pangloss/vim-javascript.git
+[submodule "pack/rails_react/start/vim-rails"]
+	path = pack/rails_react/start/vim-rails
+	url = git@github.com:tpope/vim-rails.git
+[submodule "pack/rails_react/start/vim-jsx"]
+	path = pack/rails_react/start/vim-jsx
+	url = git@github.com:mxw/vim-jsx.git
+[submodule "pack/rails_react/vim-colors-solarized"]
+	path = pack/rails_react/vim-colors-solarized
+	url = git@github.com:altercation/vim-colors-solarized.git
+[submodule "pack/rails_react/start/vim-colors-solarized"]
+	path = pack/rails_react/start/vim-colors-solarized
+	url = git@github.com:altercation/vim-colors-solarized.git

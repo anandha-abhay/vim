@@ -74,6 +74,9 @@ autocmd BufWritePre * :%s/\s\+$//e
 " ctrlp settings
 let g:ctrlp_user_command = ['.git', 'cd %s && git ls-file . --cached --exclude-standard']
 
+" Disable EX-MODE
+"nnoremap Q<Nop>
+
 " Nerd Tree Settings
 let NERDTreeShowHidden=1
 function! StartUp()

@@ -43,3 +43,6 @@
 [submodule "pack/rails_react/start/vim-colors-solarized"]
 	path = pack/rails_react/start/vim-colors-solarized
 	url = git@github.com:altercation/vim-colors-solarized.git
+[submodule "pack/rails_react/start/vim-obsession"]
+	path = pack/rails_react/start/vim-obsession
+	url = git@github.com:tpope/vim-obsession.git

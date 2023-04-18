@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/Users/mattabhay/.vim/.git'
+let g:netrw_dirhist_3='/Users/mattabhay/.vim/.git/modules'
+let g:netrw_dirhist_2='/Users/mattabhay/.vim/.git'
+let g:netrw_dirhist_1='/Users/mattabhay/.vim/.git/info'
+let g:netrw_dirhist_0='/Users/mattabhay/.vim/.git'
+let g:netrw_dirhist_9='/Users/mattabhay/.vim/.git/modules/pack/rails_react/start/ack.vim'
+let g:netrw_dirhist_8='/Users/mattabhay/.vim/.git/modules/pack/rails_react/start'
+let g:netrw_dirhist_7='/Users/mattabhay/.vim/.git/modules/pack/rails_react'
+let g:netrw_dirhist_6='/Users/mattabhay/.vim/.git/modules/pack'
+let g:netrw_dirhist_5='/Users/mattabhay/.vim/.git/modules'

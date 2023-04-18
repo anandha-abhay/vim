@@ -46,3 +46,6 @@
 [submodule "pack/rails_react/start/vim-obsession"]
 	path = pack/rails_react/start/vim-obsession
 	url = git@github.com:tpope/vim-obsession.git
+[submodule "pack/rails_react/start/copilot.vim"]
+	path = pack/rails_react/start/copilot.vim
+	url = git@github.com:github/copilot.vim.git
